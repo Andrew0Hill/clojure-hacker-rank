@@ -13,8 +13,8 @@
         fv-mult
         )
     )
-
 )
+
 (let [
     n_t (read-line) 
     n (Integer/parseInt n_t) 
